@@ -97,4 +97,3 @@ button_calculate.pack(pady=20)
 
 # Ejecutar la aplicación
 root_window.mainloop()
-
